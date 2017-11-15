@@ -19,7 +19,7 @@
     -webkit-transition: -webkit-transform 700ms;
     -moz-transition: -moz-transform 700ms;
     -o-transition: -o-transform 700ms;
-    transition: transform 1s;
+    transition: transform 700ms;
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     -o-transform-style: preserve-3d;
